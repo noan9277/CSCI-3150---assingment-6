@@ -1,1 +1,1 @@
-# CSCI-3150---assingment-6
+# CSCI-3150---assignment-6
